@@ -17,4 +17,5 @@ int main()
     }
     
     printf("Result=%d\n",multi);
+	return 0;
 }

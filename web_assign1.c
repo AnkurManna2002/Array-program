@@ -1,3 +1,4 @@
+//Given a array, write a program to swap first and last element of the array.
 #include<stdio.h>
 int main()
 {

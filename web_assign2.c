@@ -1,3 +1,4 @@
+//Given an array and provided the positions of the elements, write a program to swap the two elements in that array.
 #include<stdio.h>
 int main()
 {

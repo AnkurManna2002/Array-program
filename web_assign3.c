@@ -1,3 +1,4 @@
+//Given an array and a number x, count the number of occurrences of x in the given array.
 #include<stdio.h>
 int main()
 {
